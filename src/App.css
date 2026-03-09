@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    /* background-color:#eeede4; */
+    overflow-x: hidden;    
+}
+
+body {
+    border: 20px solid #b4a293;
+    /* border-radius:px; */
+}
+.footer {
+  background-color: #b5302c; /* deep red */
+  padding: 40px 60px;
+  position: relative;
+  overflow: hidden;
+}
+
+.footer-logo {
+  font-size: 220px;
+  font-weight: 800;
+  color: #f6d6d4;
+  margin: 0;
+  line-height: 1;
+}
+
